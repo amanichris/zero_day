@@ -1,1 +1,1 @@
-Vagrant is interesting
+Vagrant is interesting.uname (short for unix name) is a computer program in Unix and Unix-like computer operating systems that prints the name, version and other details about the current machine and the operating system running on it.
